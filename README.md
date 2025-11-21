@@ -7,3 +7,4 @@
 [Buliding An AI Agent](https://github.com/nevermore2718/Cheat-Sheets/blob/main/Building%20An%20AI%20Agent.md)
 
 ## Study Guides
+[AWS Cloud Practitioner](https://github.com/nevermore2718/Cheat-Sheets-and-Guides/blob/main/AWS%20Cloud%20Practitioner%20Cheat%20Sheet.md) 
